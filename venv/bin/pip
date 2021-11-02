@@ -1,4 +1,4 @@
-#!/Users/chrisrudy/Development/scripts/venv/bin/python
+#!/Users/chrisrudy/Development/cr-scripts/venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
